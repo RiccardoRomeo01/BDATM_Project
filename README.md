@@ -12,10 +12,11 @@ In particular, we selected a binary node classification task from [Formula 1](ht
 
 
 ## File Structure
+```
 ├── README.md
 ├── Relbench_GA_data_import.ipynb
 ├── BDATM_Projecy_GraphAny.ipynb
-
+```
 ## File Description
 *  `Relbench_GA_data_import.ipynb`: this Jupiter notebook is used in order to import the node classification task from Relbench in a pickle format;
 *  `BDATM_Projecy_GraphAny.ipynb`: in this notebook GraphAny is tested on the imported classification task.
