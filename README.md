@@ -2,7 +2,7 @@
 ## Overview
 In this repository there is the implementation of the project made as exam of "Big Data Analytics and Text Mining" carried out as an individual work at the University of Bologna by Riccardo Romeo during AY 2024-25.
 
-The project consists in importing a specific node classification task from [Relbench](https://relbench.stanford.edu/) in a compatible input format in order to test an highgly promising fully-inductive model for node classification called [GraphAny](https://github.com/DeepGraphLearning/GraphAny/tree/main).
+The project consists in importing a specific node classification task from [Relbench](https://relbench.stanford.edu/) in a compatible input format in order to test an highly promising fully-inductive model for node classification called [GraphAny](https://github.com/DeepGraphLearning/GraphAny/tree/main).
 
 
 ## Description
