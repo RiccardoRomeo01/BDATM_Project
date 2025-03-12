@@ -14,12 +14,18 @@ In particular, we selected a binary node classification task from [Formula 1](ht
 ## File Structure
 ```
 ├── README.md
-├── Relbench_GA_data_import.ipynb
 ├── BDATM_Projecy_GraphAny.ipynb
+|   Presentation
+│   ├── Exam_presentation.pdf
+│   └── Exam_presentation.pptx
+├── Relbench_GA_data_import.ipynb
+
 ```
 ## File Description
-*  `Relbench_GA_data_import.ipynb`: this notebook is used in order to import the node classification task from Relbench in a pickle format;
 *  `BDATM_Projecy_GraphAny.ipynb`: in this notebook GraphAny is tested on the imported node classification task.
+*  `Relbench_GA_data_import.ipynb`: this notebook is used in order to import the node classification task from Relbench in a pickle format;
+*  `Exam_presentation.pdf`: the pdf format of the slides used during the exam discussion;
+*  `Exam_presentation.pptx`: the Power Point format of the slides used during the exam discussion.
 
 ## Projectual Details
 The entire project has been implemented on Google Colab.
