@@ -1,4 +1,4 @@
-# Big Data Analytics and Text Mining Exam Project
+# Big Data Analytics and Text Mining Exam Project: testing GraphAny on a Relbench KG
 ## Overview
 In this repository there is the implementation of the project made as exam of "Big Data Analytics and Text Mining" carried out as an individual work at the University of Bologna by Riccardo Romeo during AY 2024-25.
 
@@ -18,7 +18,7 @@ In particular, we selected a binary node classification task from [Formula 1](ht
 ├── BDATM_Projecy_GraphAny.ipynb
 ```
 ## File Description
-*  `Relbench_GA_data_import.ipynb`: this Jupiter notebook is used in order to import the node classification task from Relbench in a pickle format;
+*  `Relbench_GA_data_import.ipynb`: this notebook is used in order to import the node classification task from Relbench in a pickle format;
 *  `BDATM_Projecy_GraphAny.ipynb`: in this notebook GraphAny is tested on the imported node classification task.
 
 ## Projectual Details
