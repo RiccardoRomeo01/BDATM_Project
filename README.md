@@ -18,7 +18,7 @@ In particular, we selected a binary node classification task from [Formula 1](ht
 |   Presentation
 │   ├── Exam_presentation.pdf
 │   └── Exam_presentation.pptx
-├── Relbench_GA_data_import.ipynb
+└── Relbench_GA_data_import.ipynb
 
 ```
 ## File Description
